@@ -16,4 +16,4 @@ unfortunately because of my poor organization I had to remake a repo and reorgan
 
 <img src = "./assets/images/readmepic1.jpg">
 
-<img src ="./assets/images/readmepic2.png">
+<img src ="./assets/images/readmepic3.jpg">
