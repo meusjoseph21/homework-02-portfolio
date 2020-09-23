@@ -28,6 +28,10 @@ body {
     width: 200px;
   }
 
+.spacer3 {
+  width: 300px;
+}
+
 
 /* aligntment for contact sheet */
   .nameAlign {
@@ -39,3 +43,23 @@ img {
     height: auto;
     width: 300px;
 }
+
+/* ALL SOCIAL LINKS  */
+
+.fa-instagram {
+  color: white;
+}
+
+.fa-google {
+  color: white;
+}
+.fa-youtube {
+  color: white;
+}
+.fa {
+  font-size: 30px;
+  opacity: 50%;
+}
+
+
+
